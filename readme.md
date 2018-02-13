@@ -17,11 +17,10 @@ Francisco Gacitúa Maturana
 	<li>Para poder realizar la prueba unitaria, deje corriendo el servidor anterior y abra una nueva ventana de CMD, diríjase al diectorio del proyecto</li>
 	<li>ingrese el comando "php artisan dusk"</li>
 	<li>Si todo salió bien, la consola debiera arrojar el mensaje "OK (1 test, 4 assertions)"</li>
-
 	<li>La prueba unitaria se encuentra (comentada) en el directorio tests/Browser/ExampleTest.php</li>
 </ul>
 
-Puedes encontrar un demo funcional haciendo click <a href="">aquí</a>
+
 
 <h1>Installation</h1>
 <ul>
@@ -39,8 +38,6 @@ Puedes encontrar un demo funcional haciendo click <a href="">aquí</a>
 	<li>go to the project's main directory.
 	<li>write the command "php artisan dusk"
 	<li>if everything is Ok, the console must show the message: "OK (1 test, 4 assertions)"
-
 	<li>The unit Test is found (commented) in "tests/Browser/ExampleTest.php"
 </ul>
 
-You can find a demo clicking <a href="">here</a>
