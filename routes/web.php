@@ -16,3 +16,4 @@ Route::view('/',"welcome");
 Route::post('/validar',"WelcomeController@validar");
 Route::get('/json','WelcomeController@getJson');
 
+app('debugbar')->disable();
